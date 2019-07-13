@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALCChallenge</string>
+    <string name="main_activity">ALC 4 Phase 1</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="phone">Phone number: +260 975 031758</string>
+    <string name="email">Email: makilimusepa@gmail.com</string>
+    <string name="country">Country: Zambia</string>
+    <string name="track">Track: Android</string>
+    <string name="name">Makili Musepa</string>
+    <string name="title">Welcome to ALC 4.0</string>
+    <string name="about_alc_text">ABOUT ALC</string>
+    <string name="my_profile_button_text">MY PROFILE</string>
+    <string name="username">Slack Username:  Makili Musepa</string>
+</resources>
